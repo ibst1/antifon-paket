@@ -69,7 +69,7 @@ Ungefär 2–3 USD per timme och språk som någon lyssnar på. Antifon tolkar b
 
 ### Sidan öppnas men det hörs inget i mobilen
 
-- Tryck på uppspelningsknappen på sidan; mobiler spelar inte ljud förrän man tryckt. 
+- Tryck på **Börja lyssna** på sidan; mobiler spelar inte ljud förrän man tryckt. 
 - Höj volymen och kontrollera att hörlurarna är anslutna. 
 - Kontrollera på driftssidan att gudstjänsten är startad: lampan **Kyrkan** i statusfältet ska vara grön. 
 

@@ -10,3 +10,5 @@ resten.
 (Om → Uppdateringar). Zip-filen är det som uppdateringen hämtar.
 
 Windows kan varna för att filen är okänd (den är inte kodsignerad än): välj *Mer information → Kör ändå*.
+
+**Krånglar något?** Se [Frågor och svar](HJALP.md).

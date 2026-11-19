@@ -21,6 +21,12 @@ Starta med genvägen **Antifon** på skrivbordet eller i Startmenyn. Antifon kö
 
 Högerklicka på ikonen och välj **Visa loggen**; orsaken står på de sista raderna. Det vanligaste är att ett annat program redan använder samma port, eller att Antifon redan kör i ett annat fönster. Starta om datorn om du är osäker. Hjälper inte det: spara en felrapport från ikonens meny och skicka den till den som hjälper er.
 
+### Kan Antifon gå utan att någon är inloggad på datorn?
+
+Ja, för förberedelser. Slå på **Inställningar → Fjärrdrift → Utan inloggning** på tolkdatorn. Windows frågar efter administratör och kontots lösenord (det sparas av Windows, inte av Antifon). Sedan går Antifon i **bakgrundsläge** när ingen är inloggad: driftssidan nås på distans, och manus, förberedelser, poddar och notiser fungerar.
+
+I bakgrundsläget finns inget ljud, så inget går att spela in, tolka eller sända. Logga in på tolkdatorn före gudstjänsten: då tar den vanliga Antifon över på ungefär tio sekunder. När du loggar ut kommer bakgrundsläget tillbaka inom en halv minut. Byter du lösenord på kontot behöver *Utan inloggning* ställas in igen.
+
 ### Jag vill göra om guiden från första starten
 
 Öppna **Inställningar** på driftssidan; länken till guiden står överst. Inget som redan är inställt försvinner.
@@ -105,7 +111,7 @@ Antifon söker själv en gång i timmen. Under **Om → Uppdateringar** står de
 
 ### Hur avinstallerar jag?
 
-Windows **Inställningar → Appar → Antifon → Avinstallera**. Du får frågan om inställningar, inspelningar och nycklar också ska tas bort; standard är att de sparas.
+Windows **Inställningar → Appar → Antifon → Avinstallera**. Du får frågan om inställningar, inspelningar och nycklar också ska tas bort; standard är att de sparas. Är *Utan inloggning* påslaget: stäng av det först (Inställningar → Fjärrdrift).
 
 ## När inget av detta hjälper
 

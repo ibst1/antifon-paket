@@ -35,9 +35,13 @@ I bakgrundsläget finns inget ljud, så inget går att spela in, tolka eller sä
 
 ### Nivåmätaren rör sig inte
 
-- Välj rätt ingång under **Gudstjänst → Ljud in** (ljudkortet som mixern är kopplad till). 
+- Välj rätt ingång under **Live → Ljud in** (ljudkortet som mixern är kopplad till). 
 - Kontrollera att mixern skickar ljud på den utgången, och att sladden sitter i. 
 - I Windows: **Inställningar → Sekretess och säkerhet → Mikrofon** ska tillåta att appar använder mikrofonen. 
+
+### Jag vill höra ingången utan att starta något
+
+Tryck **🎧 Medhör** under *Ljud in* till vänster på fliken **Live**. Då hör du det som kommer in från mixern i din webbläsare, med några sekunders fördröjning, även via fjärrdrift. Inget startas och lyssnarna hör ingenting. Använd hörlurar om du sitter i kyrkan, annars kan det tjuta.
 
 ### Röda staplar i vågformen
 
